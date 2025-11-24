@@ -4,7 +4,7 @@
  <title>Hyde</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2025-11-24T18:13:56+09:00</updated>
+ <updated>2025-11-24T18:25:21+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -29,7 +29,7 @@
       &lt;img src=&quot;/public/img/sungkyunkwan.png&quot; alt=&quot;Sungkyunkwan University logo&quot; /&gt;
     &lt;/td&gt;
     &lt;td&gt;
-      &lt;strong&gt;PhD Candidate in Mechanical Engineering&lt;/strong&gt; — Machine learning for computer vision and manipulation.&lt;br /&gt;&lt;em&gt;Sungkyunkwan University, South Korea&lt;/em&gt;&lt;br /&gt;2020 - 2025
+      &lt;strong&gt;PhD Candidate in Mechanical Engineering&lt;/strong&gt; — Research in machine learning for computer vision and manipulation for mobile robotics applied to container unloading.&lt;br /&gt;&lt;em&gt;Sungkyunkwan University, South Korea&lt;/em&gt;&lt;br /&gt;2020 - 2025
     &lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
@@ -37,7 +37,7 @@
       &lt;img src=&quot;/public/img/sungkyunkwan.png&quot; alt=&quot;Sungkyunkwan University logo&quot; /&gt;
     &lt;/td&gt;
     &lt;td&gt;
-      &lt;strong&gt;M.Sc. in Mechatronics Engineering&lt;/strong&gt; — Research in AI, computer vision, and autonomous robotics.&lt;br /&gt;&lt;em&gt;Sungkyunkwan University, South Korea&lt;/em&gt;&lt;br /&gt;2017 - 2020
+      &lt;strong&gt;M.Sc. in Mechatronics Engineering&lt;/strong&gt; — Research in machine learning for computer vision applied to quadrotors.&lt;br /&gt;&lt;em&gt;Sungkyunkwan University, South Korea&lt;/em&gt;&lt;br /&gt;2017 - 2020
     &lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
@@ -45,7 +45,7 @@
       &lt;img src=&quot;/public/img/uvg.png&quot; alt=&quot;Universidad del Valle de Guatemala logo&quot; /&gt;
     &lt;/td&gt;
     &lt;td&gt;
-      &lt;strong&gt;Bachelor in Mechatronics Engineering&lt;/strong&gt; — Undergraduate studies in mechatronics.&lt;br /&gt;&lt;em&gt;Universidad del Valle de Guatemala, Guatemala&lt;/em&gt;&lt;br /&gt;2010 - 2014
+      &lt;strong&gt;Bachelor in Mechatronics Engineering&lt;/strong&gt; — Power and control subsystems for the First Guatemalan Nanosatellite.&lt;br /&gt;&lt;em&gt;Universidad del Valle de Guatemala, Guatemala&lt;/em&gt;&lt;br /&gt;2010 - 2014
     &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;

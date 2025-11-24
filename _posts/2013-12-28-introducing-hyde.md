@@ -16,7 +16,7 @@ As a person, I excell at taking ownership, constantly curious and hands-on, alwa
       <img src="{{ site.baseurl }}public/img/sungkyunkwan.png" alt="Sungkyunkwan University logo">
     </td>
     <td>
-      <strong>PhD Candidate in Mechanical Engineering</strong> — Machine learning for computer vision and manipulation.<br><em>Sungkyunkwan University, South Korea</em><br>2020 - 2025
+      <strong>PhD Candidate in Mechanical Engineering</strong> — Research in machine learning for computer vision and manipulation for mobile robotics applied to container unloading.<br><em>Sungkyunkwan University, South Korea</em><br>2020 - 2025
     </td>
   </tr>
   <tr>
@@ -24,7 +24,7 @@ As a person, I excell at taking ownership, constantly curious and hands-on, alwa
       <img src="{{ site.baseurl }}public/img/sungkyunkwan.png" alt="Sungkyunkwan University logo">
     </td>
     <td>
-      <strong>M.Sc. in Mechatronics Engineering</strong> — Research in AI, computer vision, and autonomous robotics.<br><em>Sungkyunkwan University, South Korea</em><br>2017 - 2020
+      <strong>M.Sc. in Mechatronics Engineering</strong> — Research in machine learning for computer vision applied to quadrotors.<br><em>Sungkyunkwan University, South Korea</em><br>2017 - 2020
     </td>
   </tr>
   <tr>
@@ -32,7 +32,7 @@ As a person, I excell at taking ownership, constantly curious and hands-on, alwa
       <img src="{{ site.baseurl }}public/img/uvg.png" alt="Universidad del Valle de Guatemala logo">
     </td>
     <td>
-      <strong>Bachelor in Mechatronics Engineering</strong> — Undergraduate studies in mechatronics.<br><em>Universidad del Valle de Guatemala, Guatemala</em><br>2010 - 2014
+      <strong>Bachelor in Mechatronics Engineering</strong> — Power and control subsystems for the First Guatemalan Nanosatellite.<br><em>Universidad del Valle de Guatemala, Guatemala</em><br>2010 - 2014
     </td>
   </tr>
 </table>
