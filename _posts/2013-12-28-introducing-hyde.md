@@ -13,26 +13,26 @@ As a person, I excell at taking ownership, constantly curious and hands-on, alwa
 <table class="education-table">
   <tr>
     <td>
-      <img class="education-logo" src="{{ site.baseurl }}public/img/sungkyunkwan.png" alt="Sungkyunkwan University logo">
+      <img class="education-logo" src="{{ site.baseurl }}public/img/sungkyunkwan.png" alt="Sungkyunkwan University logo" width="150">
     </td>
     <td>
-      <strong>PhD Candidate in Mechanical Engineering</strong> — Research in machine learning for computer vision and manipulation for mobile robotics applied to container unloading.<br><em>Sungkyunkwan University, South Korea</em><br>2020 - 2025
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img class="education-logo" src="{{ site.baseurl }}public/img/sungkyunkwan.png" alt="Sungkyunkwan University logo">
-    </td>
-    <td>
-      <strong>M.Sc. in Mechatronics Engineering</strong> — Research in machine learning for computer vision applied to quadrotors.<br><em>Sungkyunkwan University, South Korea</em><br>2017 - 2020
+      <strong>PhD Candidate in Mechanical Engineering</strong> <br> Research in machine learning for computer vision and manipulation for mobile robotics applied to container unloading.<br><em>Sungkyunkwan University, South Korea</em><br>2020 - 2025
     </td>
   </tr>
   <tr>
     <td>
-      <img class="education-logo" src="{{ site.baseurl }}public/img/uvg.png" alt="Universidad del Valle de Guatemala logo">
+      <img class="education-logo" src="{{ site.baseurl }}public/img/sungkyunkwan.png" alt="Sungkyunkwan University logo" width="150">
     </td>
     <td>
-      <strong>Bachelor in Mechatronics Engineering</strong> — Power and control subsystems for the First Guatemalan Nanosatellite.<br><em>Universidad del Valle de Guatemala, Guatemala</em><br>2010 - 2014
+      <strong>M.Sc. in Mechatronics Engineering</strong> <br> Research in machine learning for computer vision applied to quadrotors.<br><em>Sungkyunkwan University, South Korea</em><br>2017 - 2020
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img class="education-logo" src="{{ site.baseurl }}public/img/uvg.png" alt="Universidad del Valle de Guatemala logo" width="150">
+    </td>
+    <td>
+      <strong>Bachelor in Mechatronics Engineering</strong> <br> Power and control subsystems for the First Guatemalan Nanosatellite.<br><em>Universidad del Valle de Guatemala, Guatemala</em><br>2010 - 2014
     </td>
   </tr>
 </table>
@@ -43,7 +43,7 @@ As a person, I excell at taking ownership, constantly curious and hands-on, alwa
 <table class="education-table">
   <tr>
     <td>
-      <img class="education-logo" src="{{ site.baseurl }}public/img/micro2025.png" alt="micro 2025">
+      <img class="education-logo" src="{{ site.baseurl }}public/img/micro2025.png" alt="micro 2025" width="2000">
     </td>
     <td>
       <strong>Finalist in Micro2025 AI Model Benchmarking Competition</strong><b4> <a href="https://www.linkedin.com/posts/deepx-corp_micro2025-snu-deepx-activity-7387449344016343040-MJrD">Finalist</a> at the <a href="https://www.ai-bmt.com/micro2025-competition/overview">AI-BMT NPU</a> benchmarking competition organized for Micro2025.  Inference time and accuracy of optimization for a machine learning model for the DeepX M-1 neural processing unit (NPU). Using a architecture-hardware optimization approach, designed a neural network that leverages supported operators, and GRPO-like training techniques to improve classification accuracy.<br><em>IEEE MICRO 2025</em><br>October 2025

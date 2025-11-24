@@ -128,16 +128,17 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
+    max-width: 52rem;
     margin-left: 20rem;
-    margin-right: 2rem;
+    margin-right: 1rem;
   }
 }
 
 @media (min-width: 64em) {
   .content {
+    max-width: 58rem;
     margin-left: 22rem;
-    margin-right: 4rem;
+    margin-right: 2rem;
   }
 }
 
@@ -153,7 +154,8 @@ a.sidebar-nav-item:focus {
   background-color: transparent;
 }
 .education-logo {
-  width: 300px;
+  display: block;
+  max-width: 100%;
   height: auto;
 }
 
