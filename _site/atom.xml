@@ -4,7 +4,7 @@
  <title>Hyde</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2025-11-24T18:25:21+09:00</updated>
+ <updated>2025-11-24T18:41:28+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -26,7 +26,7 @@
 &lt;table class=&quot;education-table&quot;&gt;
   &lt;tr&gt;
     &lt;td&gt;
-      &lt;img src=&quot;/public/img/sungkyunkwan.png&quot; alt=&quot;Sungkyunkwan University logo&quot; /&gt;
+      &lt;img class=&quot;education-logo&quot; src=&quot;/public/img/sungkyunkwan.png&quot; alt=&quot;Sungkyunkwan University logo&quot; /&gt;
     &lt;/td&gt;
     &lt;td&gt;
       &lt;strong&gt;PhD Candidate in Mechanical Engineering&lt;/strong&gt; — Research in machine learning for computer vision and manipulation for mobile robotics applied to container unloading.&lt;br /&gt;&lt;em&gt;Sungkyunkwan University, South Korea&lt;/em&gt;&lt;br /&gt;2020 - 2025
@@ -34,7 +34,7 @@
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td&gt;
-      &lt;img src=&quot;/public/img/sungkyunkwan.png&quot; alt=&quot;Sungkyunkwan University logo&quot; /&gt;
+      &lt;img class=&quot;education-logo&quot; src=&quot;/public/img/sungkyunkwan.png&quot; alt=&quot;Sungkyunkwan University logo&quot; /&gt;
     &lt;/td&gt;
     &lt;td&gt;
       &lt;strong&gt;M.Sc. in Mechatronics Engineering&lt;/strong&gt; — Research in machine learning for computer vision applied to quadrotors.&lt;br /&gt;&lt;em&gt;Sungkyunkwan University, South Korea&lt;/em&gt;&lt;br /&gt;2017 - 2020
@@ -42,7 +42,7 @@
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td&gt;
-      &lt;img src=&quot;/public/img/uvg.png&quot; alt=&quot;Universidad del Valle de Guatemala logo&quot; /&gt;
+      &lt;img class=&quot;education-logo&quot; src=&quot;/public/img/uvg.png&quot; alt=&quot;Universidad del Valle de Guatemala logo&quot; /&gt;
     &lt;/td&gt;
     &lt;td&gt;
       &lt;strong&gt;Bachelor in Mechatronics Engineering&lt;/strong&gt; — Power and control subsystems for the First Guatemalan Nanosatellite.&lt;br /&gt;&lt;em&gt;Universidad del Valle de Guatemala, Guatemala&lt;/em&gt;&lt;br /&gt;2010 - 2014
@@ -52,6 +52,33 @@
 
 &lt;h3 id=&quot;career&quot;&gt;Career&lt;/h3&gt;
 
+&lt;table class=&quot;education-table&quot;&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img class=&quot;education-logo&quot; src=&quot;/public/img/micro2025.png&quot; alt=&quot;micro 2025&quot; /&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;strong&gt;Finalist in Micro2025 AI Model Benchmarking Competition&lt;/strong&gt;&lt;b4&gt; &lt;a href=&quot;https://www.linkedin.com/posts/deepx-corp_micro2025-snu-deepx-activity-7387449344016343040-MJrD&quot;&gt;Finalist&lt;/a&gt; at the &lt;a href=&quot;https://www.ai-bmt.com/micro2025-competition/overview&quot;&gt;AI-BMT NPU&lt;/a&gt; benchmarking competition organized for Micro2025.  Inference time and accuracy of optimization for a machine learning model for the DeepX M-1 neural processing unit (NPU). Using a architecture-hardware optimization approach, designed a neural network that leverages supported operators, and GRPO-like training techniques to improve classification accuracy.&lt;br /&gt;&lt;em&gt;IEEE MICRO 2025&lt;/em&gt;&lt;br /&gt;October 2025
+    &amp;lt;/td&amp;gt;
+  &amp;lt;/tr&amp;gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img class=&quot;education-logo&quot; src=&quot;/public/img/sungkyunkwan.png&quot; alt=&quot;Sungkyunkwan University logo&quot; /&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;strong&gt;M.Sc. in Mechatronics Engineering&lt;/strong&gt; — Research in machine learning for computer vision applied to quadrotors.&lt;br /&gt;&lt;em&gt;Sungkyunkwan University, South Korea&lt;/em&gt;&lt;br /&gt;2017 - 2020
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img class=&quot;education-logo&quot; src=&quot;/public/img/uvg.png&quot; alt=&quot;Universidad del Valle de Guatemala logo&quot; /&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;strong&gt;Bachelor in Mechatronics Engineering&lt;/strong&gt; — Power and control subsystems for the First Guatemalan Nanosatellite.&lt;br /&gt;&lt;em&gt;Universidad del Valle de Guatemala, Guatemala&lt;/em&gt;&lt;br /&gt;2010 - 2014
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&amp;lt;/table&amp;gt;
+&lt;/b4&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 </content>
  </entry>
  

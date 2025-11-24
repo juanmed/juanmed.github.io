@@ -152,6 +152,10 @@ a.sidebar-nav-item:focus {
 .education-table tbody tr:nth-child(odd) th {
   background-color: transparent;
 }
+.education-logo {
+  width: 300px;
+  height: auto;
+}
 
 
 /*
