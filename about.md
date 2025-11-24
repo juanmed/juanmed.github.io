@@ -3,28 +3,19 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I am a perception engineer and roboticist driven by the belief that intelligent machines can expand human potential and improve quality of life. My background blends hands-on engineering, academic research, and large-scale deployments across logistics, medical, and social-impact domains. I thrive in multidisciplinary environments where hardware, software, and operations intersect, and I enjoy translating complex perception problems into robust, real-world solutions.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Background
 
-There are currently two themes built on Poole:
+My career started in Guatemala designing off-grid solar systems, where I learned that engineering excellence must be paired with logistics, field maintenance, and deep empathy for end users. Those formative years grounded my mission: to build autonomous systems that deliver tangible value in society. Today I strive to deploy perception-driven robots that make workplaces safer, logistics more sustainable, and technology more inclusive. I aim to continue leading diverse teams, mentoring the next generation of roboticists, and ensuring that the benefits of automation are shared broadly.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## Expertise & Knowledge
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+- **Perception & Computer Vision:** Stereo and multi-view geometry, sensor fusion, classical CV (feature engineering, calibration, photometric modeling) and modern deep learning (CNNs, transformers) across RGB, depth, LiDAR, structured light, event, and proprioceptive sensors.
+- **Machine Learning Pipelines:** Dataset strategy, labeling operations, augmentation, training/fine-tuning, benchmarking, and deployment on embedded and distributed compute.
+- **Robotics Integration:** Experience with drones, humanoids, mobile manipulators, and CubeSats, covering control, planning, estimation, and the interfaces between perception and manipulation.
+- **Systems Engineering & Operations:** Mass manufacturing coordination, logistics planning, field maintenance, and telemetry/monitoring for deployed fleets.
 
-## Setup
+## Vision
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+My goal is to continue developing perception systems that enable robots to perform demanding physical work—whether unloading trailers, assisting in healthcare, or supporting social initiatives—while keeping human safety, accessibility, and sustainability at the center. Through curiosity, rigor, and collaboration, I aim to push the boundaries of autonomous systems and ensure that their benefits reach every community I serve.
