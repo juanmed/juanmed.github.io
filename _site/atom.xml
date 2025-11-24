@@ -4,7 +4,7 @@
  <title>Juan Medrano</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2025-11-25T01:26:08+09:00</updated>
+ <updated>2025-11-25T02:04:22+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Juan Medrano</name>
@@ -72,6 +72,14 @@
     &lt;/td&gt;
     &lt;td&gt;
       &lt;strong&gt;Segmentation, 6DoF Pose Estimation and Tracking&lt;/strong&gt;&lt;br /&gt; Development of &lt;a href=&quot;https://www.youtube.com/watch?v=MhRd0vvdaj0&quot;&gt;perception algorithms&lt;/a&gt; for detection, segmentation, 6DoF pose estimation of totes and boxes. These algorithms were deployed on Digit, Agility Robotic&apos;s human form-factor robot. Collaborated with a team of excellent perception, machine learning and infrastructure engineers to develop the complete perception pipeline that enabled Digit reliable and robustly manipulate objects using perception sensors&lt;br /&gt;&lt;em&gt;Agility Robotics&lt;/em&gt;&lt;br /&gt;2022 - 2025
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img class=&quot;education-logo&quot; src=&quot;/public/img/digit_gxo.png&quot; alt=&quot;agility robotics deploy&quot; width=&quot;2000&quot; /&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;strong&gt;Deployment of perception algorithms &lt;/strong&gt;&lt;br /&gt; Actively participated, supported and contributed to the &lt;a href=&quot;https://www.agilityrobotics.com/content/digit-deployed-at-gxo-in-historic-humanoid-raas-agreement&quot;&gt;deployment&lt;/a&gt; of Digit at warehouse locations belonging to GXO, the largest pure-play contract logistics provide. Digit is equipped with perception algorithms that do detection, pose estimation and tracking of totes, other objects and other robots in its surrounding, to enable fine manipulation of delicate products and materials.  &lt;br /&gt;&lt;em&gt;Agility Robotics&lt;/em&gt;&lt;br /&gt;2022 - 2025
     &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;

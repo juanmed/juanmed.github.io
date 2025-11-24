@@ -63,6 +63,14 @@ As a person, I excell at taking ownership, constantly curious and hands-on, alwa
       <strong>Segmentation, 6DoF Pose Estimation and Tracking</strong><br> Development of <a href="https://www.youtube.com/watch?v=MhRd0vvdaj0">perception algorithms</a> for detection, segmentation, 6DoF pose estimation of totes and boxes. These algorithms were deployed on Digit, Agility Robotic's human form-factor robot. Collaborated with a team of excellent perception, machine learning and infrastructure engineers to develop the complete perception pipeline that enabled Digit reliable and robustly manipulate objects using perception sensors<br><em>Agility Robotics</em><br>2022 - 2025
     </td>
   </tr>
+  <tr>
+    <td>
+      <img class="education-logo" src="{{ site.baseurl }}public/img/digit_gxo.png" alt="agility robotics deploy" width="2000">
+    </td>
+    <td>
+      <strong>Deployment of perception algorithms </strong><br> Actively participated, supported and contributed to the <a href="https://www.agilityrobotics.com/content/digit-deployed-at-gxo-in-historic-humanoid-raas-agreement">deployment</a> of Digit at warehouse locations belonging to GXO, the largest pure-play contract logistics provide. Digit is equipped with perception algorithms that do detection, pose estimation and tracking of totes, other objects and other robots in its surrounding, to enable fine manipulation of delicate products and materials.  <br><em>Agility Robotics</em><br>2022 - 2025
+    </td>
+  </tr>
 </table>
 
 ## Research in autonomos and intelligent robotics
