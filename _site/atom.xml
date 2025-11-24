@@ -4,7 +4,7 @@
  <title>Hyde</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2025-11-24T22:39:44+09:00</updated>
+ <updated>2025-11-25T01:14:32+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Juan Medrano</title>
-   <link href="http://localhost:4000/2013/12/28/introducing-hyde/"/>
-   <updated>2013-12-28T00:00:00+09:00</updated>
-   <id>http://localhost:4000/2013/12/28/introducing-hyde</id>
+   <link href="http://localhost:4000/2025/11/01/presentation/"/>
+   <updated>2025-11-01T00:00:00+09:00</updated>
+   <id>http://localhost:4000/2025/11/01/presentation</id>
    <content type="html">&lt;p&gt;Perception Engineer with 7+ years experience in computer vision and robotics. With experience in multiple academic, industrial and government projects owning full perception subsystems for robots from &amp;lt;1k up to 1ton. Participated and owned complete perception stack from perception sensor and compute specification, selection, bring-up and calibration, software architecture and implementation using both classic and learning algorithms, integration with other subsystems (navigation, loco-manipulation) and field deployment, telemetry and monitoring. Familiar with production-quality software engineering, agile development and multi-discipline design particular to robot engineering.&lt;/p&gt;
 
 &lt;p&gt;As a person, I excell at taking ownership, constantly curious and hands-on, always learning and eager to understand our universe and working to have a positive social impact. Through my life and work, I discovered and experienced the power of science and technology to advance humanity. I strongly believe that autonomous robotics and intelligent systems are essential tools to build a better world for all forms of life. I strive to take my life in this direction.&lt;/p&gt;
@@ -72,6 +72,114 @@
     &lt;/td&gt;
     &lt;td&gt;
       &lt;strong&gt;Segmentation, 6DoF Pose Estimation and Tracking&lt;/strong&gt;&lt;br /&gt; Development of &lt;a href=&quot;https://www.youtube.com/watch?v=MhRd0vvdaj0&quot;&gt;perception algorithms&lt;/a&gt; for detection, segmentation, 6DoF pose estimation of totes and boxes. These algorithms were deployed on Digit, Agility Robotic&apos;s human form-factor robot. Collaborated with a team of excellent perception, machine learning and infrastructure engineers to develop the complete perception pipeline that enabled Digit reliable and robustly manipulate objects using perception sensors&lt;br /&gt;&lt;em&gt;Agility Robotics&lt;/em&gt;&lt;br /&gt;2022 - 2025
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;research-in-autonomos-and-intelligent-robotics&quot;&gt;Research in autonomos and intelligent robotics&lt;/h2&gt;
+
+&lt;table class=&quot;education-table&quot;&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img class=&quot;education-logo&quot; src=&quot;/public/img/containerunloading.png&quot; alt=&quot;Vision-guided box manipulation for Container Unloading&quot; width=&quot;3300&quot; /&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;strong&gt;Vision-guided box manipulation for Container Unloading&lt;/strong&gt;&lt;br /&gt;Government-Industry research project for the development of a &amp;gt;2000 cases/hr, dual-arm mobile robot for container unloading automation. Designed, implemented and optimized a research platform for a machine learning-based computer vision pipeline for instance segmentation and pose estimation of up to a hundred objects in very cluttered scenarios. Responsible for sensor selection, configuration optimization across coverage, accuracy and cost, and overall validation. Led data collection and labelling, CNN architecture optimization, multi-GPU training, deployment and characterization of the system.&lt;br /&gt;&lt;em&gt;RISE Laboratory&lt;/em&gt;&lt;br /&gt;2020 - 2022
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img class=&quot;education-logo&quot; src=&quot;/public/img/autonomous_quad.png&quot; alt=&quot;Autonomous Drone Navigation and Racing&quot; width=&quot;1000&quot; /&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;strong&gt;Autonomous Drone Navigation and Racing&lt;/strong&gt;&lt;br /&gt;Developed machine learning and image processing algorithms to regress, estimate and track the 3D position and orientation of fly-through gates using only synthetic RGB images. With my teammates, developed an autonomous drone with controllers, planners and navigation systems. Competed in several simulation and real life national and international drone competitions such as IROS 2019 Autonomous Drone Racing and the LockHeed Martin-DRL AlphaPilot challenge (herox.com/alphapilot).&lt;br /&gt;&lt;em&gt;RISE Laboratory&lt;/em&gt;&lt;br /&gt;2019 - 2021
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img class=&quot;education-logo&quot; src=&quot;/public/img/gate_detect.gif&quot; alt=&quot;Sim based 6D object pose estimation for autonomous drone racing&quot; width=&quot;1000&quot; /&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;strong&gt;Simulation based 6D Object pose estimation for autonomous drone racing&lt;/strong&gt;&lt;br /&gt;Created a simulation environment for photorealistic drone racing and annotated a synthetic RGB image dataset of gates, including ground truth masks, bounding boxes and 6D poses using Unreal Engine. Trained a network to regress the 6D pose for visual-servoing of a quadrotor in simulation.&lt;br /&gt;&lt;em&gt;LockHeed Martin-DRL AlphaPilot&lt;/em&gt;&lt;br /&gt;2019
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;artificial-intelligence-and-computer-vision-for-medical-applications&quot;&gt;Artificial Intelligence and Computer Vision for Medical Applications&lt;/h2&gt;
+
+&lt;table class=&quot;education-table&quot;&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img class=&quot;education-logo&quot; src=&quot;/public/img/stent_defect.gif&quot; alt=&quot;Detection and Classification of Cardiovascular Stent Defects&quot; width=&quot;1700&quot; /&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;strong&gt;Detection and Classification of Cardiovascular Stent Defects&lt;/strong&gt;&lt;br /&gt;A cardiovascular stent is a small metallic, flexible tube used, among other purposes, to unclog blood vessels. This evaluation project involved research, implementation and integration with microscopic devices of machine learning algorithms for defect detection.&lt;br /&gt;&lt;em&gt;Korean pharmaceutical company&lt;/em&gt;&lt;br /&gt;2022
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img class=&quot;education-logo&quot; src=&quot;/public/img/placeholder.png&quot; alt=&quot;Detection and Identification of Drug Packages through AI and OCR&quot; width=&quot;150&quot; /&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;strong&gt;Detection and Identification of Drug Packages through AI and OCR&lt;/strong&gt;&lt;br /&gt;Developed algorithms to detect, classify and recognize drug packages, their names and ingredients from images taken with a smartphone. Built deep learning-based object segmentation and OCR algorithms plus an Android app and backend server that returns the drug’s package, name, usage, ingredients and other information from a captured photo.&lt;br /&gt;&lt;em&gt;Korean pharmaceutical company&lt;/em&gt;&lt;br /&gt;2021
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img class=&quot;education-logo&quot; src=&quot;/public/img/covid19xyz.png&quot; alt=&quot;Covid-19 Xray dataset and education web for xray technicians&quot; width=&quot;1000&quot; /&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;strong&gt;Covid-19 Xray dataset and education web for xray technicians&lt;/strong&gt;&lt;br /&gt;Set up a free webpage with x-ray findings of positive covid-19 patients for technicians in Guatemala and curated a supporting dataset available through covid19edu.xyz/, securing coverage from multiple local news outlets (source1, source2, source3).&lt;br /&gt;&lt;em&gt;Personal initiative&lt;/em&gt;&lt;br /&gt;2012 - 2020
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;artificial-intelligence-and-computer-vision-for-society&quot;&gt;Artificial Intelligence and Computer Vision for Society&lt;/h2&gt;
+
+&lt;table class=&quot;education-table&quot;&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img class=&quot;education-logo&quot; src=&quot;/public/img/covid_patients.png&quot; alt=&quot;Covid-19 patient status dataset for Guatemala&quot; width=&quot;2400&quot; /&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;strong&gt;Covid-19 patient status dataset for Guatemala&lt;/strong&gt;&lt;br /&gt;Collected, maintained and open-sourced a dataset of covid-19 cases, including confirmed, deceased and recovered counts, for several months. Deployed data scraping scripts, organized volunteers to sustain the project and launched the dataset in GitHub and Kaggle for other developers to analyze and contribute.&lt;br /&gt;&lt;em&gt;Personal initiative&lt;/em&gt;&lt;br /&gt;2019 - 2020
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img class=&quot;education-logo&quot; src=&quot;/public/img/actas_ocr.png&quot; alt=&quot;Automated vote verification for Guatemala Elections 2019&quot; width=&quot;350&quot; /&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;strong&gt;Automated vote verification for Guatemala Elections 2019&lt;/strong&gt;&lt;br /&gt;Organized volunteers and created an automated vote verification system for the 2019 Elections in Guatemala. Processed thousands of digital images of manual vote count summaries across varied quality, alignments and handwriting, identifying key regions and comparing reported sums against model outputs while also building the first Guatemalan handwriting dataset (project).&lt;br /&gt;&lt;em&gt;Personal initiative&lt;/em&gt;&lt;br /&gt;2019 - 2020
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img class=&quot;education-logo&quot; src=&quot;/public/img/gtmnist.png&quot; alt=&quot;GTMNIST: Guatemalan handwritting dataset&quot; width=&quot;350&quot; /&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;strong&gt;GTMNIST: Guatemalan handwritting dataset&lt;/strong&gt;&lt;br /&gt; As part of the vote verification project, I realized the hand writting patterns in the widely used MNIST dataset is biased. This bias resulted in reduced inference accuracy when applied to handwritting from other countries. To address this bias, I created the first Guatemalan MNIST dataset, which contains more than 6000 sample crops. To the best of my knowledge, such work was not done before. After finetuning OCR networks on this dataset, accuracy improved from 80% to 95%.&lt;br /&gt;&lt;em&gt;Personal initiative&lt;/em&gt;&lt;br /&gt;2019 - 2020
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;electronics-and-mechanical-design&quot;&gt;Electronics and Mechanical Design&lt;/h2&gt;
+
+&lt;table class=&quot;education-table&quot;&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img class=&quot;education-logo&quot; src=&quot;/public/img/quetzal1.png&quot; alt=&quot;Power and Communications Engineer for the first guatemalan satellite&quot; width=&quot;1000&quot; /&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;strong&gt;Power and Communications Engineer for the first guatemalan satellite&lt;/strong&gt;&lt;br /&gt;Contributed to a pico-satellite in a CubeSat form factor designed and assembled by undergraduate and graduate students. The satellite was deployed from the International Space Station on March 6, 2020, orbiting and transmitting data for more than five months. I was responsible for the design of the first iteration of the power subsystem.&lt;br /&gt;&lt;em&gt;University of the Valley of Guatemala&lt;/em&gt;&lt;br /&gt;2016 - 2017
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img class=&quot;education-logo&quot; src=&quot;/public/img/kingo.png&quot; alt=&quot;Electronic Applications Developer&quot; width=&quot;2000&quot; /&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;strong&gt;Electronic Applications Developer&lt;/strong&gt;&lt;br /&gt;Involved end-to-end from specification and development through mass manufacturing of second- and third-generation off-grid solar energy storage systems for a prepay business model at Kingo Energy (kingoenergy.com). Provided field support and maintenance, sourced and validated mechanical and electrical hardware and COTS components, and defined and managed quality standards and improvements.&lt;br /&gt;&lt;em&gt;Kingo Energy&lt;/em&gt;&lt;br /&gt;2014 - 2016
     &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
