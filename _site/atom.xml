@@ -4,7 +4,7 @@
  <title>Hyde</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2025-11-24T17:40:45+09:00</updated>
+ <updated>2025-11-24T18:13:56+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -22,46 +22,36 @@
 &lt;p&gt;As a person, I excell at taking ownership, constantly curious and hands-on, always learning and eager to understand our universe and working to have a positive social impact. Through my life and work, I discovered and experienced the power of science and technology to advance humanity. I strongly believe that autonomous robotics and intelligent systems are essential tools to build a better world for all forms of life. I strive to take my life in this direction.&lt;/p&gt;
 
 &lt;h3 id=&quot;education&quot;&gt;Education&lt;/h3&gt;
-&lt;hr /&gt;
 
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;/public/img/sungkyunkwan.png&quot; alt=&quot;PhD Candidate Placeholder&quot; /&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;PhD Candidate in Mechanical Engineering&lt;/strong&gt; — Research in machine learning for embedded systems and computer vision on neural network accelerators applied to autonomous robotics. Focus on MPC and RL methods for manipulation combined with learning-based architectures for object identification, pose regression, navigation, and reconstruction of geometry and contacts.&lt;br /&gt;&lt;em&gt;Sungkyunkwan University, South Korea&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;/public/img/sungkyunkwan.png&quot; alt=&quot;M.Sc. Placeholder&quot; /&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;M.Sc. in Mechatronics Engineering&lt;/strong&gt; — Research in AI, computer vision, and autonomous robotics.&lt;br /&gt;&lt;em&gt;Sungkyunkwan University, South Korea&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;/public/img/uvg.png&quot; alt=&quot;Bachelor Placeholder&quot; /&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;Bachelor in Mechatronics Engineering&lt;/strong&gt; — Undergraduate studies in mechatronics.&lt;br /&gt;&lt;em&gt;Universidad del Valle de Guatemala, Guatemala&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
+&lt;table class=&quot;education-table&quot;&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/public/img/sungkyunkwan.png&quot; alt=&quot;Sungkyunkwan University logo&quot; /&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;strong&gt;PhD Candidate in Mechanical Engineering&lt;/strong&gt; — Machine learning for computer vision and manipulation.&lt;br /&gt;&lt;em&gt;Sungkyunkwan University, South Korea&lt;/em&gt;&lt;br /&gt;2020 - 2025
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/public/img/sungkyunkwan.png&quot; alt=&quot;Sungkyunkwan University logo&quot; /&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;strong&gt;M.Sc. in Mechatronics Engineering&lt;/strong&gt; — Research in AI, computer vision, and autonomous robotics.&lt;br /&gt;&lt;em&gt;Sungkyunkwan University, South Korea&lt;/em&gt;&lt;br /&gt;2017 - 2020
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/public/img/uvg.png&quot; alt=&quot;Universidad del Valle de Guatemala logo&quot; /&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;strong&gt;Bachelor in Mechatronics Engineering&lt;/strong&gt; — Undergraduate studies in mechatronics.&lt;br /&gt;&lt;em&gt;Universidad del Valle de Guatemala, Guatemala&lt;/em&gt;&lt;br /&gt;2010 - 2014
+    &lt;/td&gt;
+  &lt;/tr&gt;
 &lt;/table&gt;
 
-&lt;h3 id=&quot;hyde-features&quot;&gt;Hyde features&lt;/h3&gt;
+&lt;h3 id=&quot;career&quot;&gt;Career&lt;/h3&gt;
 
-&lt;p&gt;In addition to the features of Poole, Hyde adds the following:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sidebar includes support for textual modules and a dynamically generated navigation with active link support&lt;/li&gt;
-  &lt;li&gt;Two orientations for content and sidebar, default (left sidebar) and &lt;a href=&quot;https://github.com/poole/lanyon#reverse-layout&quot;&gt;reverse&lt;/a&gt; (right sidebar), available via &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/poole/hyde#themes&quot;&gt;Eight optional color schemes&lt;/a&gt;, available via &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/poole/hyde#readme&quot;&gt;Head to the readme&lt;/a&gt; to learn more.&lt;/p&gt;
-
-&lt;h3 id=&quot;browser-support&quot;&gt;Browser support&lt;/h3&gt;
-
-&lt;p&gt;Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.&lt;/p&gt;
-
-&lt;h3 id=&quot;download&quot;&gt;Download&lt;/h3&gt;
-
-&lt;p&gt;Hyde is developed on and hosted with GitHub. Head to the &lt;a href=&quot;https://github.com/poole/hyde&quot;&gt;GitHub repository&lt;/a&gt; for downloads, bug reports, and features requests.&lt;/p&gt;
-
-&lt;p&gt;Thanks!&lt;/p&gt;
 </content>
  </entry>
  

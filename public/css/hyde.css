@@ -141,6 +141,18 @@ a.sidebar-nav-item:focus {
   }
 }
 
+/* Education table overrides remove default borders/shading */
+.education-table,
+.education-table td,
+.education-table th {
+  border: none;
+  background-color: transparent;
+}
+.education-table tbody tr:nth-child(odd) td,
+.education-table tbody tr:nth-child(odd) th {
+  background-color: transparent;
+}
+
 
 /*
  * Reverse layout

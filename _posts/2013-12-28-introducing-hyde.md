@@ -8,31 +8,35 @@ Perception Engineer with 7+ years experience in computer vision and robotics. Wi
 As a person, I excell at taking ownership, constantly curious and hands-on, always learning and eager to understand our universe and working to have a positive social impact. Through my life and work, I discovered and experienced the power of science and technology to advance humanity. I strongly believe that autonomous robotics and intelligent systems are essential tools to build a better world for all forms of life. I strive to take my life in this direction.
 
 ### Education
----
-
-| --- | --- |
-| ![PhD Candidate Placeholder]({{ site.baseurl }}public/img/sungkyunkwan.png) | **PhD Candidate in Mechanical Engineering** — Research in machine learning for embedded systems and computer vision on neural network accelerators applied to autonomous robotics. Focus on MPC and RL methods for manipulation combined with learning-based architectures for object identification, pose regression, navigation, and reconstruction of geometry and contacts.<br><em>Sungkyunkwan University, South Korea</em> |
-| ![M.Sc. Placeholder]({{ site.baseurl }}public/img/sungkyunkwan.png) | **M.Sc. in Mechatronics Engineering** — Research in AI, computer vision, and autonomous robotics.<br><em>Sungkyunkwan University, South Korea</em> |
-| ![Bachelor Placeholder]({{ site.baseurl }}public/img/uvg.png) | **Bachelor in Mechatronics Engineering** — Undergraduate studies in mechatronics.<br><em>Universidad del Valle de Guatemala, Guatemala</em> |
 
 
+<table class="education-table">
+  <tr>
+    <td>
+      <img src="{{ site.baseurl }}public/img/sungkyunkwan.png" alt="Sungkyunkwan University logo">
+    </td>
+    <td>
+      <strong>PhD Candidate in Mechanical Engineering</strong> — Machine learning for computer vision and manipulation.<br><em>Sungkyunkwan University, South Korea</em><br>2020 - 2025
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="{{ site.baseurl }}public/img/sungkyunkwan.png" alt="Sungkyunkwan University logo">
+    </td>
+    <td>
+      <strong>M.Sc. in Mechatronics Engineering</strong> — Research in AI, computer vision, and autonomous robotics.<br><em>Sungkyunkwan University, South Korea</em><br>2017 - 2020
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="{{ site.baseurl }}public/img/uvg.png" alt="Universidad del Valle de Guatemala logo">
+    </td>
+    <td>
+      <strong>Bachelor in Mechatronics Engineering</strong> — Undergraduate studies in mechatronics.<br><em>Universidad del Valle de Guatemala, Guatemala</em><br>2010 - 2014
+    </td>
+  </tr>
+</table>
 
-### Hyde features
 
-In addition to the features of Poole, Hyde adds the following:
+### Career
 
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/hyde#themes), available via `<body>` classes
-
-[Head to the readme](https://github.com/poole/hyde#readme) to learn more.
-
-### Browser support
-
-Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
