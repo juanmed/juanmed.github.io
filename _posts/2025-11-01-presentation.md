@@ -44,6 +44,14 @@ As a person, I excell at taking ownership, constantly curious and hands-on, alwa
 <table class="education-table">
   <tr>
     <td>
+      <img class="education-logo" src="{{ site.baseurl }}public/img/tp100.png" alt="tenstorrent 2025" width="2000">
+    </td>
+    <td>
+      <strong>Accelerating VLMs for robotics using Tenstorrent Hardware</strong><br>Work on implementing and accelerating VLMs using<a href="https://www.linkedin.com/posts/deepx-corp_micro2025-snu-deepx-activity-7387449344016343040-MJrD">Tenstorrent's P100</a> accelerator. This project was selected as part of Tenstorrent Korea's open source program, and is aimed at showcasing the use of Tenstorrent hardware for advanced and intelligent robot applications. This work includes development of open source kernels and baremetal software to implement open source visual language models for control of robot arms.<br><em>Personal initiative</em><br>November 2025
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img class="education-logo" src="{{ site.baseurl }}public/img/micro2025.png" alt="micro 2025" width="2000">
     </td>
     <td>
@@ -89,7 +97,7 @@ As a person, I excell at taking ownership, constantly curious and hands-on, alwa
       <img class="education-logo" src="{{ site.baseurl }}public/img/autonomous_quad.png" alt="Autonomous Drone Navigation and Racing" width="1000">
     </td>
     <td>
-      <strong>Autonomous Drone Navigation and Racing</strong><br>Developed machine learning and image processing algorithms to regress, estimate and track the 3D position and orientation of fly-through gates using only synthetic RGB images. With my teammates, developed an autonomous drone with controllers, planners and navigation systems. Competed in several simulation and real life national and international drone competitions such as IROS 2019 Autonomous Drone Racing and the LockHeed Martin-DRL AlphaPilot challenge (herox.com/alphapilot).<br><em>RISE Laboratory</em><br>2019 - 2021
+      <strong>Autonomous Drone Navigation and Racing</strong><br>Developed machine learning and image processing algorithms to regress, estimate and track the 3D position and orientation of fly-through gates using only synthetic RGB images. With my teammates, developed an autonomous drone with controllers, planners and navigation systems. Competed in several simulation and real life national and international drone competitions such as <a href="http://youtu.be/8aEcW72Em2M">IROS 2019 Autonomous Drone Racing </a> and the <a href="herox.com/alphapilot">LockHeed Martin-DRL AlphaPilot challenge</a>.<br><em>RISE Laboratory</em><br>2019 - 2021
     </td>
   </tr>
   <tr>
@@ -126,7 +134,7 @@ As a person, I excell at taking ownership, constantly curious and hands-on, alwa
       <img class="education-logo" src="{{ site.baseurl }}public/img/covid19xyz.png" alt="Covid-19 Xray dataset and education web for xray technicians" width="1000">
     </td>
     <td>
-      <strong>Covid-19 Xray dataset and education web for xray technicians</strong><br>Set up a free webpage with x-ray findings of positive covid-19 patients for technicians in Guatemala and curated a supporting dataset available through covid19edu.xyz/, securing coverage from multiple local news outlets (source1, source2, source3).<br><em>Personal initiative</em><br>2012 - 2020
+      <strong>Covid-19 Xray dataset and education web for xray technicians</strong><br>Set up a free webpage with x-ray findings of positive covid-19 patients for technicians in Guatemala and curated a supporting dataset available through covid19edu.xyz/, which got coverage from multiple <a href="https://www.soy502.com/articulo/guatemaltecos-crean-plataforma-analizar-casos-covid-19-101025">local</a> <a href="https://emisorasunidas.com/2020/04/23/academicos-guatemaltecos-plataforma-coronavirus/">news</a> <a href="http://www.laprensadeguatemala.com/2020/04/crean-plataforma-para-analisis-de.html">outlets</a>.<br><em>Personal initiative</em><br>2012 - 2020
     </td>
   </tr>
 </table>
@@ -139,7 +147,7 @@ As a person, I excell at taking ownership, constantly curious and hands-on, alwa
       <img class="education-logo" src="{{ site.baseurl }}public/img/covid_patients.png" alt="Covid-19 patient status dataset for Guatemala" width="2400">
     </td>
     <td>
-      <strong>Covid-19 patient status dataset for Guatemala</strong><br>Collected, maintained and open-sourced a dataset of covid-19 cases, including confirmed, deceased and recovered counts, for several months. Deployed data scraping scripts, organized volunteers to sustain the project and launched the dataset in GitHub and Kaggle for other developers to analyze and contribute.<br><em>Personal initiative</em><br>2019 - 2020
+      <strong>Covid-19 patient status dataset for Guatemala</strong><br>Collected, maintained and open-sourced a dataset of covid-19 cases, including confirmed, deceased and recovered counts, for several months. Deployed data scraping scripts, organized volunteers to sustain the project and launched the dataset maintained through <a href="https://github.com/ncovgt2020/ncovgt2020" >Github</a> and <a href="https://www.kaggle.com/ncovgt2020/covid19-guatemala">Kaggle</a> for other developers to analyze and contribute.<br><em>Personal initiative</em><br>2019 - 2020
     </td>
   </tr>
   <tr>
@@ -147,7 +155,7 @@ As a person, I excell at taking ownership, constantly curious and hands-on, alwa
       <img class="education-logo" src="{{ site.baseurl }}public/img/actas_ocr.png" alt="Automated vote verification for Guatemala Elections 2019" width="350">
     </td>
     <td>
-      <strong>Automated vote verification for Guatemala Elections 2019</strong><br>Organized volunteers and created an automated vote verification system for the 2019 Elections in Guatemala. Processed thousands of digital images of manual vote count summaries across varied quality, alignments and handwriting, identifying key regions and comparing reported sums against model outputs while also building the first Guatemalan handwriting dataset (project).<br><em>Personal initiative</em><br>2019 - 2020
+      <strong>Automated vote verification for Guatemala Elections 2019</strong><br>Organized volunteers and created an <a href="https://github.com/juanmed/eleccionesGT2019">automated vote verification system</a> for the 2019 Elections in Guatemala. Processed thousands of digital images of manual vote count summaries across varied quality, alignments and handwriting, identifying key regions and comparing reported sums against model outputs. This tool was deployed as a service on AWS and used to compare with manual counting and to detect anomally patterns in results.<br><em>Personal initiative</em><br>2019 - 2020
     </td>
   </tr>
   <tr>
@@ -155,7 +163,7 @@ As a person, I excell at taking ownership, constantly curious and hands-on, alwa
       <img class="education-logo" src="{{ site.baseurl }}public/img/gtmnist.png" alt="GTMNIST: Guatemalan handwritting dataset" width="350">
     </td>
     <td>
-      <strong>GTMNIST: Guatemalan handwritting dataset</strong><br> As part of the vote verification project, I realized the hand writting patterns in the widely used MNIST dataset is biased. This bias resulted in reduced inference accuracy when applied to handwritting from other countries. To address this bias, I created the first Guatemalan MNIST dataset, which contains more than 6000 sample crops. To the best of my knowledge, such work was not done before. After finetuning OCR networks on this dataset, accuracy improved from 80% to 95%.<br><em>Personal initiative</em><br>2019 - 2020
+      <strong>GTMNIST: Guatemalan handwritting dataset</strong><br> As part of the vote verification project, I realized the hand writting patterns in the widely used MNIST dataset is biased towards the group that generated the dataset. Although arabic numbers are used throughout the world, each group of people writes and understands them in different manners. This bias resulted in reduced inference accuracy when applied to handwritting from other countries. To address this bias, I created the <a href="https://github.com/juanmed/eleccionesGT2019/tree/master/datasets/gtmnist">first Guatemalan MNIST dataset</a>, which contains more than 6000 sample characters. To the best of my knowledge, such work was not done before. After finetuning OCR networks on this dataset, accuracy improved from 80% to 95%.<br><em>Personal initiative</em><br>2019 - 2020
     </td>
   </tr>
 </table>
@@ -168,7 +176,7 @@ As a person, I excell at taking ownership, constantly curious and hands-on, alwa
       <img class="education-logo" src="{{ site.baseurl }}public/img/quetzal1.png" alt="Power and Communications Engineer for the first guatemalan satellite" width="1000">
     </td>
     <td>
-      <strong>Power and Communications Engineer for the first guatemalan satellite</strong><br>Contributed to a pico-satellite in a CubeSat form factor designed and assembled by undergraduate and graduate students. The satellite was deployed from the International Space Station on March 6, 2020, orbiting and transmitting data for more than five months. I was responsible for the design of the first iteration of the power subsystem.<br><em>University of the Valley of Guatemala</em><br>2016 - 2017
+      <strong>Power and Communications Engineer for the first guatemalan satellite</strong><br>Contributed to the <a href="https://www.uvg.edu.gt/cubesat-en/">first guatemalan pico-satellite</a>  in a CubeSat form factor designed and assembled by undergraduate and graduate students. The satellite was deployed from the International Space Station on March 6, 2020, orbiting and transmitting data for more than five months. I was responsible for the design of the first iteration of the power subsystem.<br><em>University of the Valley of Guatemala</em><br>2016 - 2017
     </td>
   </tr>
   <tr>
@@ -176,7 +184,7 @@ As a person, I excell at taking ownership, constantly curious and hands-on, alwa
       <img class="education-logo" src="{{ site.baseurl }}public/img/kingo.png" alt="Electronic Applications Developer" width="2000">
     </td>
     <td>
-      <strong>Electronic Applications Developer</strong><br>Involved end-to-end from specification and development through mass manufacturing of second- and third-generation off-grid solar energy storage systems for a prepay business model at Kingo Energy (kingoenergy.com). Provided field support and maintenance, sourced and validated mechanical and electrical hardware and COTS components, and defined and managed quality standards and improvements.<br><em>Kingo Energy</em><br>2014 - 2016
+      <strong>Electronic Applications Developer</strong><br>Involved end-to-end from specification and development through mass manufacturing of second- and third-generation off-grid solar energy storage systems for a prepay business model at <a href="https://www.kingoenergy.com">Kingo Energy</a>. Provided field support and maintenance, sourced and validated mechanical and electrical hardware and COTS components, and defined and managed quality standards and improvements.<br><em>Kingo Energy</em><br>2014 - 2016
     </td>
   </tr>
 </table>
