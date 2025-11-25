@@ -7,7 +7,7 @@ Perception Engineer with 7+ years experience in computer vision and robotics. Wi
 
 As a person, I excell at taking ownership, constantly curious and hands-on, always learning and eager to understand our universe and working to have a positive social impact. Through my life and work, I discovered and experienced the power of science and technology to advance humanity. I strongly believe that autonomous robotics and intelligent systems are essential tools to build a better world for all forms of life. I strive to take my life in this direction.
 
-## Education
+# Education
 
 
 <table class="education-table">
@@ -38,7 +38,7 @@ As a person, I excell at taking ownership, constantly curious and hands-on, alwa
 </table>
 
 
-## Career
+# Career
 
 
 <table class="education-table">
@@ -231,3 +231,7 @@ As a person, I excell at taking ownership, constantly curious and hands-on, alwa
   - Responsible for repair output, metrics and KPI (Key Performance Indicators)
   - Reported directly to CEO and CTOs
 
+
+# Publications
+
+Please check: <a href="https://scholar.google.com/citations?hl=en&user=hsy-GxsAAAAJ">Google Scholar</a>
