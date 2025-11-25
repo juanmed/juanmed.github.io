@@ -3,6 +3,10 @@ layout: page
 title: About
 ---
 
+<p class="message">
+  Engineer, researcher and educator in the intersection between robotics and machine learning
+</p>
+
 I am a perception engineer and roboticist driven by the belief that intelligent machines can expand human potential and improve quality of life. My background blends hands-on engineering, academic research, and large-scale deployments across logistics, medical, and social-impact domains. I thrive in multidisciplinary environments where hardware, software, and operations intersect, and I enjoy translating complex perception problems into robust, real-world solutions.
 
 ## Background
