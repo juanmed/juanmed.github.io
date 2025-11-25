@@ -4,7 +4,7 @@
  <title>Juan Medrano</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2025-11-25T11:18:59+09:00</updated>
+ <updated>2025-11-25T11:30:42+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Juan Medrano</name>
@@ -66,7 +66,7 @@
       &lt;img class=&quot;education-logo&quot; src=&quot;/public/img/micro2025.png&quot; alt=&quot;micro 2025&quot; width=&quot;2000&quot; /&gt;
     &lt;/td&gt;
     &lt;td&gt;
-      &lt;strong&gt;Finalist in Micro2025 AI Model Benchmarking Competition&lt;/strong&gt;&lt;br /&gt; &lt;a href=&quot;https://www.linkedin.com/posts/deepx-corp_micro2025-snu-deepx-activity-7387449344016343040-MJrD&quot;&gt;Finalist&lt;/a&gt; at the &lt;a href=&quot;https://www.ai-bmt.com/micro2025-competition/overview&quot;&gt;AI-BMT NPU&lt;/a&gt; benchmarking competition organized for Micro2025.  Inference time and accuracy of optimization for a machine learning model for the DeepX M-1 neural processing unit (NPU). Using a architecture-hardware optimization approach, designed a neural network that leverages supported operators, and GRPO-like training techniques to improve classification accuracy.&lt;br /&gt;&lt;em&gt;IEEE MICRO 2025&lt;/em&gt;&lt;br /&gt;October 2025
+      &lt;strong&gt;Finalist in Micro2025 AI Model Benchmarking Competition&lt;/strong&gt;&lt;br /&gt; &lt;a href=&quot;https://www.linkedin.com/posts/deepx-corp_micro2025-snu-deepx-activity-7387449344016343040-MJrD&quot;&gt;Finalist&lt;/a&gt; at the &lt;a href=&quot;https://www.ai-bmt.com/micro2025-competition/overview&quot;&gt;AI-BMT NPU&lt;/a&gt; benchmarking competition organized for Micro2025.  Inference time and accuracy of optimization for a machine learning model for the DeepX M-1 neural processing unit (NPU). Using a architecture-hardware optimization approach, designed a neural network that leverages supported operators, and &lt;a href=&quot;https://github.com/juanmed/moa-challenge-micro2025&quot;&gt;GRPO-like training&lt;/a&gt; techniques to improve classification accuracy. &lt;br /&gt;&lt;em&gt;IEEE MICRO 2025&lt;/em&gt;&lt;br /&gt;October 2025
     &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;

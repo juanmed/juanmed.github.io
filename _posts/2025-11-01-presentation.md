@@ -55,7 +55,7 @@ As a person, I excell at taking ownership, constantly curious and hands-on, alwa
       <img class="education-logo" src="{{ site.baseurl }}public/img/micro2025.png" alt="micro 2025" width="2000">
     </td>
     <td>
-      <strong>Finalist in Micro2025 AI Model Benchmarking Competition</strong><br> <a href="https://www.linkedin.com/posts/deepx-corp_micro2025-snu-deepx-activity-7387449344016343040-MJrD">Finalist</a> at the <a href="https://www.ai-bmt.com/micro2025-competition/overview">AI-BMT NPU</a> benchmarking competition organized for Micro2025.  Inference time and accuracy of optimization for a machine learning model for the DeepX M-1 neural processing unit (NPU). Using a architecture-hardware optimization approach, designed a neural network that leverages supported operators, and GRPO-like training techniques to improve classification accuracy.<br><em>IEEE MICRO 2025</em><br>October 2025
+      <strong>Finalist in Micro2025 AI Model Benchmarking Competition</strong><br> <a href="https://www.linkedin.com/posts/deepx-corp_micro2025-snu-deepx-activity-7387449344016343040-MJrD">Finalist</a> at the <a href="https://www.ai-bmt.com/micro2025-competition/overview">AI-BMT NPU</a> benchmarking competition organized for Micro2025.  Inference time and accuracy of optimization for a machine learning model for the DeepX M-1 neural processing unit (NPU). Using a architecture-hardware optimization approach, designed a neural network that leverages supported operators, and <a href="https://github.com/juanmed/moa-challenge-micro2025">GRPO-like training</a> techniques to improve classification accuracy. <br><em>IEEE MICRO 2025</em><br>October 2025
     </td>
   </tr>
 </table>
