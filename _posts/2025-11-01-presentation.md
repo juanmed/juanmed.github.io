@@ -3,7 +3,18 @@ layout: post
 title: Juan Medrano
 ---
 
-Perception Engineer with 7+ years experience in computer vision and robotics. With experience in multiple academic, industrial and government projects owning full perception subsystems for robots from <1k up to 1ton. Participated and owned complete perception stack from perception sensor and compute specification, selection, bring-up and calibration, software architecture and implementation using both classic and learning algorithms, integration with other subsystems (navigation, loco-manipulation) and field deployment, telemetry and monitoring. Familiar with production-quality software engineering, agile development and multi-discipline design particular to robot engineering. 
+
+<table class="education-table">
+  <tr>
+    <td>
+      <img class="education-logo" src="{{ site.baseurl }}public/img/headshot.png" alt="headshot" width="1200">
+    </td>
+    <td>
+      Perception Engineer with 7+ years experience in computer vision and robotics. With experience in multiple academic, industrial and government projects owning full perception subsystems for robots from 1k up to 1ton. Participated and owned complete perception stack from perception sensor and compute specification, selection, bring-up and calibration, software architecture and implementation using both classic and learning algorithms, integration with other subsystems (navigation, loco-manipulation) and field deployment, telemetry and monitoring. Familiar with production-quality software engineering, agile development and multi-discipline design particular to robot engineering.
+    </td>
+  </tr>
+</table>
+ 
 
 As a person, I excell at taking ownership, constantly curious and hands-on, always learning and eager to understand our universe and working to have a positive social impact. Through my life and work, I discovered and experienced the power of science and technology to advance humanity. I strongly believe that autonomous robotics and intelligent systems are essential tools to build a better world for all forms of life. I strive to take my life in this direction.
 
