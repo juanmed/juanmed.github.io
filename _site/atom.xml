@@ -4,7 +4,7 @@
  <title>Juan Medrano</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2025-11-25T11:30:42+09:00</updated>
+ <updated>2025-11-25T11:41:17+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Juan Medrano</name>
@@ -199,6 +199,62 @@
     &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
+
+&lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
+
+&lt;h3 id=&quot;software&quot;&gt;Software&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Production grade C++, Python and tooling&lt;/li&gt;
+  &lt;li&gt;Software Design, Implementation and Testing&lt;/li&gt;
+  &lt;li&gt;Extensive experience with Pytorch, Numpy, OpenCV, Git, Bazel&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;machine-learning-for-computer-vision-and-manipulation&quot;&gt;Machine learning for computer vision and manipulation&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Supervised and Unsupervised Learning&lt;/li&gt;
+  &lt;li&gt;Reinforcement Learning for robot control&lt;/li&gt;
+  &lt;li&gt;Computer vision:
+    &lt;ul&gt;
+      &lt;li&gt;Experience with 2D, 3D (active/passive stereo, ToF, structured light) and event cameras&lt;/li&gt;
+      &lt;li&gt;Image and lidar processing&lt;/li&gt;
+      &lt;li&gt;Camera intrinsic and extrinsic calibration&lt;/li&gt;
+      &lt;li&gt;Extensive experience with openCV (python,  C++)&lt;/li&gt;
+      &lt;li&gt;3D Reconstruction, 6DoF pose estimation, Multi-view geometry, SLAM, photometric stereo&lt;/li&gt;
+      &lt;li&gt;Dataset collection, annotation, augmentation, analysis and synthetic generation&lt;/li&gt;
+      &lt;li&gt;Deep-learning based image classification, detection, segmentation, key point regression, pose regression, Point cloud segmentation&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;leadership&quot;&gt;Leadership&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Multi-year project management at Sungkyunkwan University, 2018 - 2023
+    &lt;ul&gt;
+      &lt;li&gt;Specification, design and deployment of perception systems for autonomous trailer unloading robots&lt;/li&gt;
+      &lt;li&gt;Design, development and deployment of Autonomous Flying robots&lt;/li&gt;
+      &lt;li&gt;Participated in IROS Autonomous Drone competition 2019&lt;/li&gt;
+      &lt;li&gt;Had up to 3 master students under my responsibility&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;President of Mechatronics Engineering Student Association and IEEE Student branch, 2012:
+    &lt;ul&gt;
+      &lt;li&gt;Re instantiated Student branch after multi year inactivity. Organized technical education events with industry partners&lt;/li&gt;
+      &lt;li&gt;Secured funding to acquire arduino learning materials for continuous education&lt;/li&gt;
+      &lt;li&gt;Reported directly to Faculty of Engineering and IEEE Country branch&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Technician Manager at Kingo Energy, 2014 - 2016
+    &lt;ul&gt;
+      &lt;li&gt;Managed a group of 8 and up to 16 people at the repair laboratory&lt;/li&gt;
+      &lt;li&gt;Responsible for repair output, metrics and KPI (Key Performance Indicators)&lt;/li&gt;
+      &lt;li&gt;Reported directly to CEO and CTOs&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
 </content>
  </entry>
  

@@ -188,3 +188,46 @@ As a person, I excell at taking ownership, constantly curious and hands-on, alwa
     </td>
   </tr>
 </table>
+
+
+# Skills 
+
+
+### Software
+
+- Production grade C++, Python and tooling
+- Software Design, Implementation and Testing
+- Extensive experience with Pytorch, Numpy, OpenCV, Git, Bazel
+
+
+### Machine learning for computer vision and manipulation
+
+- Supervised and Unsupervised Learning
+- Reinforcement Learning for robot control 
+- Computer vision:
+  - Experience with 2D, 3D (active/passive stereo, ToF, structured light) and event cameras
+  - Image and lidar processing
+  - Camera intrinsic and extrinsic calibration
+  - Extensive experience with openCV (python,  C++)
+  - 3D Reconstruction, 6DoF pose estimation, Multi-view geometry, SLAM, photometric stereo
+  - Dataset collection, annotation, augmentation, analysis and synthetic generation
+  - Deep-learning based image classification, detection, segmentation, key point regression, pose regression, Point cloud segmentation 
+
+### Leadership
+
+- Multi-year project management at Sungkyunkwan University, 2018 - 2023
+  - Specification, design and deployment of perception systems for autonomous trailer unloading robots
+  - Design, development and deployment of Autonomous Flying robots 
+  - Participated in IROS Autonomous Drone competition 2019
+  - Had up to 3 master students under my responsibility 
+
+- President of Mechatronics Engineering Student Association and IEEE Student branch, 2012: 
+  - Re instantiated Student branch after multi year inactivity. Organized technical education events with industry partners
+  - Secured funding to acquire arduino learning materials for continuous education
+  - Reported directly to Faculty of Engineering and IEEE Country branch
+
+- Technician Manager at Kingo Energy, 2014 - 2016
+  - Managed a group of 8 and up to 16 people at the repair laboratory
+  - Responsible for repair output, metrics and KPI (Key Performance Indicators)
+  - Reported directly to CEO and CTOs
+
