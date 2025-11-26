@@ -100,7 +100,15 @@ As a person, I excell at taking ownership, constantly curious and hands-on, alwa
       <img class="education-logo" src="{{ site.baseurl }}public/img/containerunloading.png" alt="Vision-guided box manipulation for Container Unloading" width="3300">
     </td>
     <td>
-      <strong>Vision-guided box manipulation for Container Unloading</strong><br>Government-Industry research project for the development of a &gt;2000 cases/hr, dual-arm mobile robot for container unloading automation. Designed, implemented and optimized a research platform for a machine learning-based computer vision pipeline for instance segmentation and pose estimation of up to a hundred objects in very cluttered scenarios. Responsible for sensor selection, configuration optimization across coverage, accuracy and cost, and overall validation. Led data collection and labelling, CNN architecture optimization, multi-GPU training, deployment and characterization of the system.<br><em>RISE Laboratory</em><br>2020 - 2022
+      <strong>Vision-guided box manipulation for Container Unloading</strong><br>Government-Industry research project for the development of a &gt;2000 cases/hr, dual-arm mobile robot for container unloading automation. Designed, implemented and optimized a research platform for a machine learning-based computer vision pipeline for instance segmentation and pose estimation of up to a hundred objects in very cluttered scenarios. Responsible for sensor selection, configuration optimization across coverage, accuracy and cost, and overall validation. Led data collection and labelling, CNN architecture optimization, multi-GPU training, deployment and characterization of the system.<br><em>RISE Laboratory</em><br>2021 - 2023
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img class="education-logo" src="{{ site.baseurl }}public/img/unloading1.gif" alt="Testbed robot platform" width="3300">
+    </td>
+    <td>
+      <strong>Testbed for autonomous container unloading</strong><br>Government-Industry research project for the development of an ultra high speed container unloading robot. My work involved preparation of a perception system proposal created from engineering requirements. This work involved simulation and optimization of optical, sensor and configuration specifications. After proposal approval, I designed, implemented and testing the solution using classic and machine-learning algorithms.<br><em>RISE Laboratory</em><br>2020 - 2021
     </td>
   </tr>
   <tr>

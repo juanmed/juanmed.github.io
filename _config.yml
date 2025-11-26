@@ -11,7 +11,8 @@ title:            Juan Medrano
 tagline:          'Physical AI and Robotics'
 description:      'Expertise in robotics engineering with a focus on computer vision and manipulation'
 url:              http://hyde.getpoole.com
-baseurl:          https://juanmed.github.io/
+baseurl:          /
+homeurl:          https://juanmed.github.io
 
 author:
   name:           'Juan Medrano'
